@@ -1,0 +1,41 @@
+<div class="container bg-light">
+    <form [formGroup]="newItemForm">
+        <div class="form-group">
+            <label>Title: </label>
+            <input  type="text" class="form-control"  formControlName="title" >
+            <div class="error" *ngIf="newItemForm.controls['title'].errors?.['required']">Title fiels is required.</div>
+            <div class="error" *ngIf="newItemForm.controls['title'].errors?.['minlength']">Title field min-length is 2.</div>
+        </div>
+        <div class="form-group">
+            <label>Description</label>
+            <textarea rows="4" class="form-control" formControlName="description"></textarea>
+            <div class="error" *ngIf="newItemForm.controls['description'].errors?.['required']">Description field is required.</div>
+            <div class="error" *ngIf="newItemForm.controls['description'].errors?.['minlength']" >Description field min-length is 10.</div>
+        </div>
+        <div class="form-group">
+            <label>Image: </label>
+            <input  class="form-control" type="url" formControlName="image">
+            <div *ngIf="newItemForm.controls['image'].errors?.['required']" class="error">Image field is required.</div>
+            <div class="error" *ngIf="newItemForm.controls['image'].errors?.['pattern']">Image url pattern: http/s://(image).png/jpg/Jfif </div>
+        </div>
+        <div class="form-group">
+            <label>Price: </label>
+            <input type="number" class="form-control" formControlName="price">
+            <div class="error" *ngIf="newItemForm.controls['price'].errors?.['min']" >Minimum price is 1.</div> 
+        </div>
+        <div class="form-group">
+            <label>Phone number: </label>
+            <input type="text" class="form-control" formControlName="phone" maxlength="10" >
+            <div class="error" *ngIf="newItemForm.controls['phone'].errors?.['required']">Phone-number field is required.</div>
+            <div class="error" *ngIf="newItemForm.controls['phone'].errors?.['minlength']">Phone-number field length is 10.</div>
+            <div class="error" *ngIf="newItemForm.controls['phone'].errors?.['pattern']">Insert only digits.</div>
+        </div>
+        <div class="form-group">
+            <label>City: </label>
+            <input class="form-control" type="text" formControlName="city">
+            <div class="error" *ngIf="newItemForm.controls['city'].errors?.['required']" >City field is required.</div>
+            <div class="error" *ngIf="newItemForm.controls['city'].errors?.['minlength']" >City field min-length is 2.</div>
+        </div>
+       <button class="btn btn-primary" type="submit" (click)="addItem()">Add item</button>
+    </form>
+</div>

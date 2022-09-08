@@ -1,0 +1,14 @@
+.error{
+    color: red;
+}
+.ng-valid[required]{
+    border-left: 0.7rem solid #42A948; /* green */
+  }
+  .ng-invalid:not(form)  {
+    border-left: .3rem solid #a94442; /* red */
+  }
+  .form-group {
+    margin-bottom: 1rem;
+  }
+
+  

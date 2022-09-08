@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "city": "Ramat Gan",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://footlocker-server-prod-assetsb7c36b1b-106dqwepcig7t.s3.eu-central-1.amazonaws.com/images/products/DX8967-100-PHSRH000.jfif",
+      "phone": "0562315698",
+      "title": "Item D",
+      "price": 599,
+      "publishDate": "2022-08-31T16:35:04.078Z",
+      "id": 3
+    },
+    {
+      "city": "Ramat Gan",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://footlocker-server-prod-assetsb7c36b1b-106dqwepcig7t.s3.eu-central-1.amazonaws.com/images/products/DX8955-001-PHSRH000.jfif",
+      "phone": "0512345623",
+      "title": "Item E",
+      "price": 899,
+      "publishDate": "2022-08-31T16:35:53.572Z",
+      "id": 4
+    },
+    {
+      "city": "Ramat Gan",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://footlocker-server-prod-assetsb7c36b1b-106dqwepcig7t.s3.eu-central-1.amazonaws.com/images/products/DX3070-100-PHSRH000.jfif",
+      "phone": "0536541235",
+      "title": "Item F",
+      "price": 799,
+      "publishDate": "2022-08-31T16:36:52.335Z",
+      "id": 5
+    },
+    {
+      "city": "Givaataiym",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://footlocker-server-prod-assetsb7c36b1b-106dqwepcig7t.s3.eu-central-1.amazonaws.com/images/products/DV7056-100-PHSRH000.jfif",
+      "phone": "0563216549",
+      "title": "Item I",
+      "price": 999,
+      "publishDate": "2022-08-31T16:37:36.030Z",
+      "id": 6
+    },
+    {
+      "city": "Ashdod",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://footlocker-server-prod-assetsb7c36b1b-106dqwepcig7t.s3.eu-central-1.amazonaws.com/images/products/DR8588-400-PHSRH000.jfif",
+      "phone": "0563216549",
+      "title": "Item J",
+      "price": 799,
+      "publishDate": "2022-08-31T16:38:11.761Z",
+      "id": 7
+    },
+    {
+      "city": "Tel aviv",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://footlocker-server-prod-assetsb7c36b1b-106dqwepcig7t.s3.eu-central-1.amazonaws.com/images/products/DN3680-101-PHSRH000.jfif",
+      "phone": "0563216549",
+      "title": "Item K",
+      "price": 569,
+      "publishDate": "2022-08-31T16:39:01.871Z",
+      "id": 8
+    },
+    {
+      "city": "Jerusalem",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://footlocker-server-prod-assetsb7c36b1b-106dqwepcig7t.s3.eu-central-1.amazonaws.com/images/products/DM0863-001-PHSRH000.jfif",
+      "phone": "0562356897",
+      "title": "Item L",
+      "price": 749,
+      "publishDate": "2022-08-31T16:39:39.038Z",
+      "id": 9
+    },
+    {
+      "city": "Bnei Braque",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://footlocker-server-prod-assetsb7c36b1b-106dqwepcig7t.s3.eu-central-1.amazonaws.com/images/products/DN4590-100-PHSRH000.jfif",
+      "phone": "0321654985",
+      "title": "Item M",
+      "price": 559,
+      "publishDate": "2022-08-31T16:40:30.242Z",
+      "id": 10
+    },
+    {
+      "city": "Herzeliya",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://footlocker-server-test-assetsb7c36b1b-dulgj949bmvk.s3.eu-central-1.amazonaws.com/images/products/F143920016_1.jpg",
+      "phone": "0538315367",
+      "title": "Item N",
+      "price": 490,
+      "publishDate": "2022-08-31T16:41:27.664Z",
+      "id": 11
+    },
+    {
+      "city": "Tel Aviv",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://footlocker-server-prod-assetsb7c36b1b-106dqwepcig7t.s3.eu-central-1.amazonaws.com/images/products/943345-050-PHSRH001.jfif",
+      "phone": "0236598253",
+      "title": "Item O",
+      "price": 700,
+      "publishDate": "2022-08-31T18:16:37.593Z",
+      "id": 12
+    }
+  ]
+}

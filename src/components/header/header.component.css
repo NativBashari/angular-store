@@ -1,0 +1,28 @@
+.header-logo-wrapper {
+    text-align: left
+}
+.header-logo-wrapper{
+    display: block;
+    text-align: center;
+    vertical-align: top;
+}
+.header-nav {
+    display: block;
+    margin: 0;
+    text-align: center;
+}
+.header-nav-item {
+    display: inline-block;
+    margin-left: 30px;
+    position: inherit;
+}
+.header-nav{
+    display: block;
+}
+.main-header {
+    color: #1d1d20;
+    vertical-align: middle;
+    display: table;
+    width: 100%;
+    background-color: #fff;
+}

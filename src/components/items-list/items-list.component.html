@@ -1,0 +1,14 @@
+<div class="container">
+    <select class="form-control" [(ngModel)]="selectedSorting">
+        <option value="0">Sort By</option>
+        <option value="1">Price</option>
+        <option value="2">Date</option>
+    </select>
+    <button class="btn btn-light" (click)="sortBy()">Sort</button>
+    <div class="row m-2">
+        <div *ngFor="let item of items" class="col-md-3 col-sm-6 mb-3">
+            <sale-item [item]="item" (onDelete)="deleteItemHandler($event)"></sale-item>
+        </div>
+    </div>   
+</div>
+
